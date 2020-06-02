@@ -1,4 +1,4 @@
-# rrandomnumber
+# Coin toss transactions result in Pareto distribution?
 Just a randomnumber generator code for coin toss experiment.
 
 To run:
